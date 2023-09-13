@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="ejercicio_tarea_ejecucion_sql"
   DTS:PackageType="5"
-  DTS:VersionBuild="9"
-  DTS:VersionGUID="{9753153B-4C1D-4EE4-A8F5-D0F79BD4BE7C}">
+  DTS:VersionBuild="10"
+  DTS:VersionGUID="{3DA9E7EE-7E51-4B22-A981-2A3CE96BF75F}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
