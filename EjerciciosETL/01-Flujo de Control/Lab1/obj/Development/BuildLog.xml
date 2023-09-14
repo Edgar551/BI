@@ -2,7 +2,7 @@
 <BuildLog xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
   <ProjectInfo>
     <Name>Lab1</Name>
-    <LastWriteTime>2023-09-13T01:14:32.6452339Z</LastWriteTime>
+    <LastWriteTime>2023-09-13T23:57:56.6736717Z</LastWriteTime>
     <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
   </ProjectInfo>
   <LastBuildInfos>
@@ -13,7 +13,12 @@
     </ProjectBuildItemInfo>
     <ProjectBuildItemInfo>
       <Name>ejercicio_tarea_ejecucion_sql.dtsx</Name>
-      <LastWriteTime>2023-09-13T01:33:07.6885412Z</LastWriteTime>
+      <LastWriteTime>2023-09-13T01:36:26.2356399Z</LastWriteTime>
+      <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
+    </ProjectBuildItemInfo>
+    <ProjectBuildItemInfo>
+      <Name>02-flujo de datos.dtsx</Name>
+      <LastWriteTime>2023-09-13T23:57:56.6566682Z</LastWriteTime>
       <LastKnownProtectionLevel>EncryptSensitiveWithUserKey</LastKnownProtectionLevel>
     </ProjectBuildItemInfo>
   </LastBuildInfos>
