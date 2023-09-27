@@ -11,8 +11,8 @@
   DTS:LocaleID="1033"
   DTS:ObjectName="Tarea de flujo de datos 2"
   DTS:PackageType="5"
-  DTS:VersionBuild="9"
-  DTS:VersionGUID="{F4854C43-E8DB-4ABF-B897-B6FD6C7B42C5}">
+  DTS:VersionBuild="10"
+  DTS:VersionGUID="{A323F799-0ED6-484B-8F95-3DE28B8C6462}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
